@@ -218,7 +218,7 @@ body {
 a:link,
 a:visited {
 	color: #3394bf;
-	text-decoration; underline;
+	text-decoration: underline;
 }
 a:active,
 a:hover {
@@ -242,6 +242,16 @@ a:hover {
 .site-description {
 	color: #3394bf;
 	text-decoration: none;
+}
+
+.post-title{
+	margin-bottom:12px;
+	font-weight:bold;
+	font-size:22px;
+}
+.menu-item-social{
+	display:inline;
+	margin-right:7px;
 }
 
 /* Menu colours */
